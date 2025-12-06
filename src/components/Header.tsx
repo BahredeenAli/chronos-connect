@@ -16,7 +16,7 @@ const Header = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center space-x-4">
             <Link to="/" className="text-2xl font-bold text-blue-600 dark:text-blue-400">
-              KaziFlow
+              Scheduler
             </Link>
           </div>
           <nav className="hidden md:flex items-center space-x-4">
